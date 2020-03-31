@@ -1,3 +1,2 @@
 # gitskills
-adding..
-someone else is adding changes
+baseline
